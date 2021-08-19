@@ -15,8 +15,6 @@ I  want to contribute more open source projects make I can improve my skills of 
 - HTML5, CSS3, JavaScript, Python
 - Bootstrap, React, Vue, Django
 
-### 🔧 Tool
-
 ## 💡 Projects
 - [Restaurant List](https://github.com/Will413028/RestaurantList)
 - [Todo list](https://github.com/Will413028/todo-list)
