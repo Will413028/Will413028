@@ -1,6 +1,6 @@
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Will #Will413028
 
-Hi, I'm Will! I love learing new technology and skills of web and data analytics. I leaving in Virginia now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+Hi, I'm Will! I love learing new technology and skills of web and data analytics. I leaving in Virginia now. I want to work at others country, talk a lot with all sort of people and know more about this world.
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
