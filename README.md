@@ -13,7 +13,7 @@ I  want to contribute more open source projects make I can improve my skills of 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5, CSS3, JavaScript, Python
-- Bootstrap, React, Vue, Django
+- Bootstrap, Vue, Django
 
 ## 💡 Projects
 - [Restaurant Forum](https://github.com/Will413028/Restaurant-Forum)
