@@ -19,4 +19,3 @@ I  want to contribute more open source projects make I can improve my skills of 
 - [Restaurant Forum](https://github.com/Will413028/Restaurant-Forum)
 - [Todo List](https://github.com/Will413028/todo-list)
 - [Expense Tracker](https://github.com/Will413028/expense-tracker)
-- [Restaurant List](https://github.com/Will413028/RestaurantList)
