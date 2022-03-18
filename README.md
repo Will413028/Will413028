@@ -13,7 +13,7 @@ I  want to contribute more open source projects make I can improve my skills of 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5, CSS3, JavaScript, Python
-- Bootstrap, Vue, Django
+- Bootstrap, Express, Django
 
 ## 💡 Projects
 - [Ecommerce_django](https://github.com/Will413028/ecommerce_django)  
