@@ -6,7 +6,7 @@ Hi, I'm Will! I love learing new technology and skills of web and data analytics
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
-## 🔭 Goals of 2021
+## 🔭 Goals of 2022
 
 I  want to contribute more open source projects make I can improve my skills of program.
 
@@ -16,9 +16,10 @@ I  want to contribute more open source projects make I can improve my skills of 
 - Bootstrap, Vue, Django
 
 ## 💡 Projects
+- [Ecommerce_django](https://github.com/Will413028/ecommerce_django)  
+  - http://eshopping-env.eba-fr76zpus.us-west-2.elasticbeanstalk.com/accounts/login/
+- [Simple Twitter](https://github.com/CHLin13/twitter-api-2020) 
+  - https://chlin13.github.io/twitter-front-end/#/ 
 - [Restaurant Forum](https://github.com/Will413028/Restaurant-Forum)
   - https://mysterious-atoll-68683.herokuapp.com/
-- [Todo List](https://github.com/Will413028/todo-list)  
-  - https://evening-shelf-46591.herokuapp.com/
-- [Expense Tracker](https://github.com/Will413028/expense-tracker)
-  - https://evening-shelf-46591.herokuapp.com/
+
