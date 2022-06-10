@@ -17,9 +17,8 @@ I  want to contribute more open source projects make I can improve my skills of 
 
 ## 💡 Projects
 - [Ecommerce_django](https://github.com/Will413028/ecommerce_django)  
-  - http://eshopping-env.eba-fr76zpus.us-west-2.elasticbeanstalk.com/accounts/login/
+  - https://github.com/Will413028/ecommerce_django
 - [Simple Twitter](https://github.com/CHLin13/twitter-api-2020) 
-  - https://chlin13.github.io/twitter-front-end/#/ 
-- [Restaurant Forum](https://github.com/Will413028/Restaurant-Forum)
-  - https://mysterious-atoll-68683.herokuapp.com/
+  - https://github.com/iita71737/twitter-front-end (frontend)
+  - https://github.com/CHLin13/twitter-api-2020 (backend)
 
