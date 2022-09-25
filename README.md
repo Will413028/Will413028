@@ -6,14 +6,14 @@ Hi, I'm Will! I love learing new technology and skills of backend development & 
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
-## 🔭 Goals of 2023
+## 🔭 Goals of 2022
 
 I  want to contribute more open source projects make I can improve my skills of program.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- JavaScript, Python, Java
-- Django, koa, React
+- JavaScript, C#, Python
+- Koa, Winform, Django 
 
 ## 💡 Projects
 - [Ecommerce_django](https://github.com/Will413028/ecommerce_django)  
