@@ -4,8 +4,8 @@ Hi, I'm Will! I love learing new technology and skills of Backend Development & 
 
 ## 📚 That I know and use
 - Languages: JavaScript, C#, Python
-- Frameworks: Koa, Windows Forms, Django 
-- Database: Mariadb, MongoDB, Redis, RocksDB
+- Frameworks: Koa, Windows Forms, Flask 
+- Database: Mariadb, MongoDB, Redis
 - Deploying: Docker, Docker Compose
 
 ## 💡 Projects
