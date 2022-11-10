@@ -9,9 +9,3 @@ Hi, I'm Will! I love learing new technology and skills of Backend Development & 
 - Deploying: Docker, Docker Compose
 
 ## 💡 Projects
-- [Ecommerce_django](https://github.com/Will413028/ecommerce_django)  
-  - https://github.com/Will413028/ecommerce_django
-- [Simple Twitter](https://github.com/CHLin13/twitter-api-2020) 
-  - https://github.com/iita71737/twitter-front-end (frontend)
-  - https://github.com/CHLin13/twitter-api-2020 (backend)
-
