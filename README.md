@@ -9,5 +9,7 @@ Hi, I'm Will! I love learing new technology and skills of Backend Development & 
 - Deploying: Docker, Docker Compose
 
 ## 💡 Projects
-- Simple Twitter https://github.com/CHLin13/twitter-api-2020
+- Attendance-System 
+  - backend https://github.com/Will413028/Attendance-System-backend
+  - frontend https://github.com/Will413028/Attendance-System-frontend
 - Ecommerce Website https://github.com/Will413028/ecommerce_django
