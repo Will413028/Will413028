@@ -3,13 +3,16 @@
 Hi, I'm Will! I love learing new technology and skills of Backend Development & Data Science. I leaving in Taiwan now.
 
 ## 📚 That I know and use
-- Languages: JavaScript, C#, Python
-- Frameworks: Koa, Windows Forms, Flask
-- Database: Mariadb, MongoDB, Redis
+- Languages: Python, JavaScript, C#, 
+- Frameworks: Flask, Django, FastAPI, Koa, Express, Windows Forms, 
+- Database: Mariadb, MongoDB
 - Deploying: Docker, Docker Compose
 
 ## 💡 Projects
 - Attendance-System 
   - backend https://github.com/Will413028/Attendance-System-backend
   - frontend https://github.com/Will413028/Attendance-System-frontend
+- Social-Media-Website
+  - backend https://github.com/Will413028/Social-Media-Site-Backend
+  - frontend https://github.com/Will413028/Social-Media-Site-Frontend
 - Ecommerce Website https://github.com/Will413028/ecommerce_django
