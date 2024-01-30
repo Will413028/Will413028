@@ -3,8 +3,8 @@
 Hi, I'm Will! I love learing new technology and skills of Backend Development & Data Science. I leaving in Taiwan now.
 
 ## 📚 That I know and use
-- Languages: Python, JavaScript, C#, 
-- Frameworks: Flask, Koa, Windows Forms, 
+- Languages: Python, JavaScript
+- Frameworks: Flask, Koa
 - Database: Mariadb
 - Deploying: Docker, Docker Compose
 
