@@ -14,6 +14,3 @@ Hi, I'm Will! I love learning new technology and skills of Backend Development &
   - frontend https://github.com/Will413028/Attendance-System-Next.js
 - E-commerce Website
   - https://github.com/Will413028/ecommerce_django
-- Social-Media-Website
-  - backend https://github.com/Will413028/Social-Media-Site-Backend
-
