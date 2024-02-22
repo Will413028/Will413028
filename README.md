@@ -12,5 +12,3 @@ Hi, I'm Will! I love learning new technology and skills of Backend Development &
 - Attendance-System 
   - backend https://github.com/Will413028/attendance-system-fastapi
   - frontend https://github.com/Will413028/Attendance-System-Next.js
-- E-commerce Website
-  - https://github.com/Will413028/ecommerce_django
