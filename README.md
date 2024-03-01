@@ -14,3 +14,5 @@ Hi, I'm Will! I love learning new technology and skills of Backend Development &
   - frontend https://github.com/Will413028/Attendance-System-Next.js
 - AI-Recipe-Generator
   - https://github.com/Will413028/AI-Recipe-Generator
+- FastAPI template
+  - https://github.com/Will413028/fastapi-template
