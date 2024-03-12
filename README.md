@@ -9,10 +9,10 @@ Hi, I'm Will! I love learning new technology and skills of Backend Development &
 - Deploying: Docker, Docker Compose
 
 ## 💡 Projects
+- AI-Recipe-Generator
+  - https://github.com/Will413028/AI-Recipe-Generator
 - Attendance-System 
   - backend https://github.com/Will413028/attendance-system-fastapi
   - frontend https://github.com/Will413028/Attendance-System-Next.js
-- AI-Recipe-Generator
-  - https://github.com/Will413028/AI-Recipe-Generator
 - FastAPI template
   - https://github.com/Will413028/fastapi-template
