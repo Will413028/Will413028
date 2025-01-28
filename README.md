@@ -1,4 +1,6 @@
 ## 💡 Projects
+- Obsidian LLM Assistant
+  - https://github.com/Will413028/llm-assistant
 - Obsidian Pronunciation Downloader
   - https://github.com/Will413028/obsidian-pronunciation-downloader
 - FastAPI template
